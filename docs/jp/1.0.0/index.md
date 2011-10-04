@@ -10,6 +10,18 @@
             <span>カメラを通じて写真を取得します。</span>
         </li>
         <li>
+            <h2>Capture</h2>
+            <span>デバイスのメディアキャプチャ機能を用いてメディアファイルをキャプチャします。</span>
+        </li>
+        <li>
+            <h2>Compass</h2>
+            <span>デバイスが向いている方角を取得します。</span>
+        </li>
+        <li>
+            <h2>Connection</h2>
+            <span>ネットワークの状態や携帯電話ネットワーク情報を取得します。</span>
+        </li>
+        <li>
             <h2>Contacts</h2>
             <span>連絡先データベース情報を操作します。</span>
         </li>
